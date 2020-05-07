@@ -1,2 +1,2 @@
 # Leap-Year-Calculator
-Calculate whether a year was a common year or leap year in Python.
+Enter any year and the Calculator will tell you if the year was a leap year or a common year. 
